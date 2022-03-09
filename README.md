@@ -1,2 +1,2 @@
-# register-bot
-30 star'da atarım ( public register ) 
+## Public kayıt botuna ait görüntüler;
+- Yakında atarm kanki
