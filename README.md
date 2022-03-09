@@ -1,2 +1,2 @@
-## Public kayıt botuna ait görüntüler;
+## Public kayıt botuna ait görüntüler; 🐍
 - Yakında atarm kanki
